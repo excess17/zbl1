@@ -112,18 +112,3 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: attaches
-    value: null
-    values: {}
-    elements:
-      - code: attaches
-        value: null
-        values:
-          en:
-            correlationCode: '205'
-            name: Download
-        elements: []
-        compositeelements: []
-        listelements: {}
-    compositeelements: []
-    listelements: {}
