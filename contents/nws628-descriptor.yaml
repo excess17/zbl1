@@ -68,18 +68,3 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: attaches
-    value: null
-    values: {}
-    elements:
-      - code: attaches
-        value: null
-        values:
-          en:
-            correlationCode: ''
-            name: Entando_Admin_Console_Overview_4.3.3_EN.pdf
-        elements: []
-        compositeelements: []
-        listelements: {}
-    compositeelements: []
-    listelements: {}
